@@ -1,13 +1,12 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Jokenpokemon</h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Pequeno joguinho de pokemon utilizando os tres inciais, usando a regra de tres poderes (jokenpo).
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -16,9 +15,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
-
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+<a href="https://ibb.co/7zcyXwy"><img src="https://i.ibb.co/RSnH9xH/jokenpokemon.jpg" alt="jokenpokemon" border="0"></a>
 </p>
 
 ## 🚀 Tecnologias
@@ -26,18 +24,12 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- JavaScript
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O Jokenpokemon é um mini joguinho de navegador de pokemon. Ele utiliza o DOM para a interação dos personagens e CSS para estilizar o jogo. Você pode visualizar a live através [DESSE LINK](https://jokenpokemon.vercel.app/).
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -45,4 +37,3 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
