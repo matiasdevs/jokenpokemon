@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function(){
             deselecionar('jogador', jogadorEscolha);
             deselecionar('computador', computadorEscolha);
             imprimeMensagem(`Vamos lá, ${jogadorNome}! É sua vez!`);
-          }, 500);
+          }, 1000);
 
           if (jogadorPontos >= 5){
             alert('Parabéns! Voce venceu!');
